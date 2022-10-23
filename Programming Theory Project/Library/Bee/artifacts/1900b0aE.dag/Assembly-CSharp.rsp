@@ -355,7 +355,6 @@
 "Assets/Scripts/Ball.cs"
 "Assets/Scripts/Cube.cs"
 "Assets/Scripts/Cylinder.cs"
-"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/SceneChanger.cs"
 "Assets/Scripts/Shape.cs"
 -langversion:9.0

@@ -7,7 +7,7 @@ public class Shape : MonoBehaviour
 {
     public TMP_Text nameField;
     public TMP_Text label;
-    public string Name {get ; set;}
+    public string Name {get ; set;} // ENCAPSULATION
 
 
     public virtual void DisplayText() {
